@@ -5,7 +5,7 @@
 [![Download](https://img.shields.io/github/v/release/o0HalfLife0o/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/TVBoxOSC/releases/latest) 
 [![Total](https://shields.io/github/downloads/o0HalfLife0o/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 
-+ Updated Commit: 29fd7803345d1f6289da2476749315036818a518
++ Updated Commit: 4d622796507202e72d088fb526c1b58cce0a931f
 
 ## Credits
 This repo relies on the following third-party projects:
